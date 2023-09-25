@@ -1,0 +1,12 @@
+C:\Users\fatma\Desktop\sil\MqCore\bin\Debug\net6.0\MqCore.deps.json
+C:\Users\fatma\Desktop\sil\MqCore\bin\Debug\net6.0\MqCore.dll
+C:\Users\fatma\Desktop\sil\MqCore\bin\Debug\net6.0\MqCore.pdb
+C:\Users\fatma\Desktop\sil\MqCore\obj\Debug\net6.0\MqCore.csproj.AssemblyReference.cache
+C:\Users\fatma\Desktop\sil\MqCore\obj\Debug\net6.0\MqCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\Desktop\sil\MqCore\obj\Debug\net6.0\MqCore.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\sil\MqCore\obj\Debug\net6.0\MqCore.AssemblyInfo.cs
+C:\Users\fatma\Desktop\sil\MqCore\obj\Debug\net6.0\MqCore.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\sil\MqCore\obj\Debug\net6.0\MqCore.dll
+C:\Users\fatma\Desktop\sil\MqCore\obj\Debug\net6.0\refint\MqCore.dll
+C:\Users\fatma\Desktop\sil\MqCore\obj\Debug\net6.0\MqCore.pdb
+C:\Users\fatma\Desktop\sil\MqCore\obj\Debug\net6.0\ref\MqCore.dll
